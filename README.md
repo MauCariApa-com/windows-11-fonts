@@ -4,9 +4,8 @@ Welcome to the **Windows 11 Stock Fonts** repository, provided by **MauCariApa.c
 
 This repository includes the following fonts:
 
-- **Segoe UI Variable**: The primary typeface for Windows, known for its legibility and versatility.
 - **Segoe UI**: A modern, humanist sans-serif typeface designed for clarity.
-- **Segoe MDL2 Assets**: A symbol font that includes icons and glyphs used in Windows applications.
+- **Times New Roman**: A serif font features small lines or decorative strokes (serifs) at the ends of its letters, which are intended to guide the flow of reading.
 - **Courier New**: A classic monospaced typeface, ideal for coding and technical documents.
 - **Arial**: A widely used sans-serif typeface known for its clean appearance.
 
