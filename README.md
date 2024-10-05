@@ -1,7 +1,3 @@
-# Creating a README.md file with the provided content in Markdown format.
-
-readme_content = """# Windows 11 Stock Fonts
-
 Welcome to the **Windows 11 Stock Fonts** repository, provided by **MauCariApa.com** and the **Kudatuli Project**. This collection showcases the default fonts included in Windows 11, offering a comprehensive resource for designers, developers, and typography enthusiasts.
 
 ## Contents
