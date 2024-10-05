@@ -34,4 +34,4 @@ This repository is provided for educational and personal use only. All fonts are
 ## Contributor
 
 - **MauCariApa.com**: [info@maucaripapa.com](mailto:info@maucaripapa.com)
-- **Kudatuli Project**: [support@kudatuli.com](mailto:info@kudatuli.com)
+- **Kudatuli Project**: [info@kudatuli.com](mailto:info@kudatuli.com)
