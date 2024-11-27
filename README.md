@@ -1,7 +1,3 @@
-Here’s the revised version of the `README.md` file, integrating licensing clarity while ensuring compliance with Microsoft's proprietary font restrictions:
-
----
-
 # Windows 11 Stock Fonts Repository
 
 Welcome to the **Windows 11 Stock Fonts** repository, provided by **MauCariApa.com**. This collection showcases the default fonts included in Windows 11, offering a comprehensive resource for designers, developers, and typography enthusiasts.
