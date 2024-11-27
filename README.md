@@ -31,7 +31,7 @@ To use these fonts legally, follow these steps to install them from a licensed W
 5. Run `sudo fc-cache -f -v` to refresh the font cache on your system.
 6. The fonts will now be available in your applications.
 
-**Note**: This repository does not contain the actual font files due to Microsoft's proprietary licensing terms. See the License section below for details.
+**Note**: This repository contains examples and references to Windows fonts but does not include the actual font files due to Microsoft's proprietary licensing terms. See the License section below for details.
 
 ## License
 
