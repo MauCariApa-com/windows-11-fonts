@@ -1,11 +1,17 @@
-Welcome to the **Windows 11 Stock Fonts** repository, provided by **MauCariApa.com** and the **Kudatuli Project**. This collection showcases the default fonts included in Windows 11, offering a comprehensive resource for designers, developers, and typography enthusiasts.
+Here’s the revised version of the `README.md` file, integrating licensing clarity while ensuring compliance with Microsoft's proprietary font restrictions:
+
+---
+
+# Windows 11 Stock Fonts Repository
+
+Welcome to the **Windows 11 Stock Fonts** repository, provided by **MauCariApa.com**. This collection showcases the default fonts included in Windows 11, offering a comprehensive resource for designers, developers, and typography enthusiasts.
 
 ## Contents
 
-This repository includes the following fonts:
+This repository includes references to the following fonts:
 
 - **Segoe UI**: A modern, humanist sans-serif typeface designed for clarity.
-- **Times New Roman**: A serif font features small lines or decorative strokes (serifs) at the ends of its letters, which are intended to guide the flow of reading.
+- **Times New Roman**: A serif font featuring small lines or decorative strokes (serifs) at the ends of its letters, intended to guide the flow of reading.
 - **Courier New**: A classic monospaced typeface, ideal for coding and technical documents.
 - **Arial**: A widely used sans-serif typeface known for its clean appearance.
 
@@ -18,19 +24,27 @@ These fonts can be used in various applications, including:
 - Document Creation
 - User Interface Design
 
-To install the fonts on your GNU/Linux machine, follow these steps:
+### Installation Guide for GNU/Linux
 
-1. **Clone** this repository.
-2. Extract it to **/usr/share/fonts** directory to make it installed as system-wide, or extract to your home directory to make it affect your user only.
-3. Do **sudo fc-cache -f -v** to refresh your font cache on your system.
-4. The font will now be available in your applications.
+To use these fonts legally, follow these steps to install them from a licensed Windows environment:
 
+1. **Locate the Fonts**: Ensure you have access to a licensed Windows 11 installation.
+2. Navigate to the fonts folder on Windows (`C:\Windows\Fonts`) and copy the desired fonts.
+3. Transfer the fonts to your GNU/Linux machine.
+4. Place the fonts in the **/usr/share/fonts** directory for system-wide availability or in your home directory for user-specific access.
+5. Run `sudo fc-cache -f -v` to refresh the font cache on your system.
+6. The fonts will now be available in your applications.
+
+**Note**: This repository does not contain the actual font files due to Microsoft's proprietary licensing terms. See the License section below for details.
 
 ## License
 
-This repository is provided for educational and personal use only. All fonts are the property of their respective owners, and any commercial use may require permission.
+This repository is provided for **educational and personal use only**. All fonts referenced here are the property of Microsoft Corporation and other respective owners. Distribution of the actual font files is prohibited.
 
-## Contributor
+If you wish to use these fonts commercially or outside a Windows environment, please ensure you comply with Microsoft’s licensing terms.
 
-- **MauCariApa.com**: [info@maucaripapa.com](mailto:info@maucaripapa.com)
-- **Kudatuli Project**: [info@kudatuli.com](mailto:info@kudatuli.com)
+The accompanying code and scripts in this repository (if any) are licensed under the [MIT License](LICENSE). This license applies **only** to the code and does not extend to the proprietary fonts.
+
+## Contributors
+
+- **MauCariApa.com**: [info@maucariapa.com](mailto:info@maucaripapa.com)  
